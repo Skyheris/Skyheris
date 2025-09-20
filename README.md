@@ -9,13 +9,11 @@
 
 ###
 
-<br clear="both">
-
-<img align="right" height="175" src="https://i.redd.it/1d11s820dgm91.gif"  />
+<div align="center">
+  <img height="200" src="https://i.redd.it/1d11s820dgm91.gif"  />
+</div>
 
 ###
-
-<br clear="both">
 
 <div align="center">
   <a href="https://www.linkedin.com/in/francisco-oliveira-948b6328a/" target="_blank">
