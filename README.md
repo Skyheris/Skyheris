@@ -1,10 +1,10 @@
-<h1 align="left">Hello! I'm Francisco Oliveira and welcome to my GitHub Profile 😁</h1>
-
-###
-
 <br clear="both">
 
 <img align="right" height="175" src="https://i.redd.it/1d11s820dgm91.gif"  />
+
+###
+
+<h1 align="left">Hello! I'm Francisco Oliveira and welcome to my GitHub Profile 😁</h1>
 
 ###
 
