@@ -2,9 +2,14 @@
 
 ###
 
+<br clear="both">
+
+<img align="right" height="175" src="https://i.redd.it/1d11s820dgm91.gif"  />
+
+###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Skyheris&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Skyheris&theme=radical&hide_border=false&border_radius=5" height="150" alt="streak graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Skyheris&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
@@ -28,10 +33,6 @@
 
 ###
 
-<img align="right" height="175" src="https://i.redd.it/1d11s820dgm91.gif"  />
-
-###
-
 <div align="center">
   <a href="https://www.linkedin.com/in/francisco-oliveira-948b6328a/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -43,15 +44,5 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Skyheris/Skyheris/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Skyheris/Skyheris/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Skyheris/Skyheris/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
